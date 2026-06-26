@@ -1,4 +1,4 @@
-# Wolfenstein PB — Proyecto Final
+# Wolfenstein 3D — Proyecto Final
 
 **Freddy Maldonado Pereyra — Cod. UPB 59814**
 

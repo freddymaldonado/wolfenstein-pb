@@ -80,7 +80,7 @@ func _construir() -> void:
 	col.add_child(titulo)
 
 	var sub := Label.new()
-	sub.text = "Wolfenstein PB"
+	sub.text = "Wolfenstein 3D"
 	sub.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	sub.add_theme_font_size_override("font_size", 14)
 	sub.add_theme_color_override("font_color", Color(0.55, 0.57, 0.7))

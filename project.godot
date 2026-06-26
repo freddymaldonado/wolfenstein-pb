@@ -7,7 +7,7 @@ config_version=5
 
 [application]
 
-config/name="Wolfenstein PB"
+config/name="Wolfenstein 3D"
 config/description="Clon de Wolfenstein 3D para el proyecto final de Infografia."
 run/main_scene="res://scenes/game.tscn"
 config/features=PackedStringArray("4.6", "Forward Plus")
