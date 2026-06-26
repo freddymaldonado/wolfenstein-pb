@@ -7,6 +7,8 @@ primera persona: recorres una mazmorra con paredes texturizadas, los guardias te
 ven y te disparan, juntas munición / botiquines / tesoros, abres puertas y tenes
 que llegar a la **SALIDA** para ganar.
 
+![Demo del juego](docs/demo.gif)
+
 Todo el mundo se arma **por codigo** a partir de un mapa de texto. No hay escenas
 pesadas hechas a mano: la escena principal es un solo nodo con el script
 [scripts/game.gd](scripts/game.gd).
