@@ -1,0 +1,26 @@
+; Engine configuration file.
+; Proyecto final — clon de Wolfenstein 3D en Godot 4.6.
+; Casi todo el mundo se arma por codigo desde game.gd, asi que aca solo
+; queda lo basico: nombre, escena principal, ventana y el icono.
+
+config_version=5
+
+[application]
+
+config/name="Wolfenstein PB"
+config/description="Clon de Wolfenstein 3D para el proyecto final de Infografia."
+run/main_scene="res://scenes/game.tscn"
+config/features=PackedStringArray("4.6", "Forward Plus")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+environment/defaults/default_clear_color=Color(0, 0, 0, 1)

@@ -1,0 +1,15 @@
+# Godot 4 — cache de importacion (se regenera al abrir el proyecto)
+.godot/
+
+# Artefactos de exportacion
+/build/
+/export/
+export_presets.cfg
+
+# Basura del sistema operativo
+.DS_Store
+*~
+
+# Editores
+.idea/
+.vscode/
